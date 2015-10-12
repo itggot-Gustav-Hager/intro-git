@@ -1,4 +1,4 @@
 # Intro git #
 
-Git är förvirrande!
+Git är mycket förvirrande!
 
